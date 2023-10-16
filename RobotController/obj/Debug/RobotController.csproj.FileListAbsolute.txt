@@ -1,0 +1,10 @@
+E:\Trabajo\Classes Enti\Delivery1_Empty\RobotController\bin\Debug\RobotController.dll
+E:\Trabajo\Classes Enti\Delivery1_Empty\RobotController\bin\Debug\RobotController.pdb
+E:\Trabajo\Classes Enti\Delivery1_Empty\RobotController\obj\Debug\RobotController.csprojAssemblyReference.cache
+E:\Trabajo\Classes Enti\Delivery1_Empty\RobotController\obj\Debug\RobotController.csproj.CoreCompileInputs.cache
+E:\Trabajo\Classes Enti\Delivery1_Empty\RobotController\obj\Debug\RobotController.dll
+E:\Trabajo\Classes Enti\Delivery1_Empty\RobotController\obj\Debug\RobotController.pdb
+C:\Users\pablo.fernandez\Desktop\aai_animacion\Codigo\RobotController\obj\Debug\RobotController.csproj.AssemblyReference.cache
+C:\Users\pablo.fernandez\Desktop\aai_animacion\Codigo\RobotController\obj\Debug\RobotController.csproj.CoreCompileInputs.cache
+C:\Users\pablo.fernandez\Desktop\aai_animacion\Codigo\RobotController\obj\Debug\RobotController.dll
+C:\Users\pablo.fernandez\Desktop\aai_animacion\Codigo\RobotController\obj\Debug\RobotController.pdb
